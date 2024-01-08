@@ -898,7 +898,7 @@ width: 300px;
 }
 
 .card .price-details .price {
-  font-size: 65px;
+  font-size: 55px;
   font-weight: 600;
   font-family: "Noto Sans", sans-serif;
   position: relative;
@@ -970,9 +970,10 @@ width: 300px;
 }
 .price3::after {
   content: "/3mon";
-  right: -39px;
+  right: -42px;
   bottom: 17px;
   font-size: 13px;
+  color: #d80a0a;
 }
 .card .price-details .price3::before,
 .card .price-details .price3::after {
@@ -981,7 +982,7 @@ width: 300px;
   font-family: "Poppins", sans-serif;
 }
 .card .price-details .price3 {
-  font-size: 65px;
+  font-size: 55px;
   font-weight: 600;
   font-family: "Noto Sans", sans-serif;
   position: relative;
@@ -991,12 +992,14 @@ width: 300px;
   left: -13px;
   top: 17px;
   font-size: 20px;
+  
 }
 .price6::after {
   content: "/6mon";
-  right: -39px;
+  right: -43px;
   bottom: 17px;
   font-size: 13px;
+  color: #d80a0a;
 }
 .card .price-details .price6::before,
 .card .price-details .price6::after {
@@ -1005,7 +1008,7 @@ width: 300px;
   font-family: "Poppins", sans-serif;
 }
 .card .price-details .price6 {
-  font-size: 65px;
+  font-size: 55px;
   font-weight: 600;
   font-family: "Noto Sans", sans-serif;
   position: relative;
@@ -1018,9 +1021,10 @@ width: 300px;
 }
 .priceyr::after {
   content: "/year";
-  right: -37px;
+  right: -33px;
   bottom: 17px;
   font-size: 13px;
+  color: #d80a0a;
 }
 .card .price-details .priceyr::before,
 .card .price-details .priceyr::after {
@@ -1029,7 +1033,7 @@ width: 300px;
   font-family: "Poppins", sans-serif;
 }
 .card .price-details .priceyr {
-  font-size: 65px;
+  font-size: 55px;
   font-weight: 600;
   font-family: "Noto Sans", sans-serif;
   position: relative;
